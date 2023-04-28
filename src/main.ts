@@ -1,6 +1,10 @@
 export const company = {
     join: () => {
-        console.log("Join us and work with us, see open positions at www.wetter.com/jobs")
+        console.log("Want to work with us? Go to www.wetter.com/jobs and see our open positions.")
+        if (window) {
+            window.open("https://www.wetter.com/jobs")
+        }
     }
 }
 
+export default company;
