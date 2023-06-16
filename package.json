@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "prepublish": "yarn build"
   },
-  "registry": "https://registry.npmjs.org/",
+  "registry": "https://registry.yarnpkg.com/",
   "main": "./dist/main.umd.cjs",
   "module": "./dist/main.js",
   "types": "./dist/main.d.ts",
