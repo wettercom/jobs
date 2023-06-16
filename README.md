@@ -13,4 +13,4 @@ company.join();
 /* www.wetter.com/jobs */
 ```
 
-Want to work with us? Go to [www.wetter.com/jobs](www.wetter.com/jobs) and see our open positions.
+Want to work with us? Go to [www.wetter.com/jobs/](https://www.wetter.com/jobs/) and see our open positions.
