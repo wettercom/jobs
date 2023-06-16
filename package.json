@@ -27,5 +27,8 @@
     "vite": "^4.3.2",
     "vite-plugin-dts": "^2.3.0"
   },
-  "repository": "git@github.com:wettercom/jobs.git"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wettercom/jobs.git"
+  }
 }
